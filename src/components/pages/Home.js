@@ -9,7 +9,7 @@ class Home extends Component {
     return (
       <Fragment>
         <MetaTags>
-          <title>Plus Ultra | Home</title>
+          <title>DELAPEL TECH | HOME</title>
           <meta name="description" content="#" />
         </MetaTags>
         <Header />
