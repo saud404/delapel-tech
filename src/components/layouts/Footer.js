@@ -180,12 +180,12 @@ class Footer extends Component {
             <p className="copyright-text">
               <span>
                 Copy@{" "}
-                <Link to="http://www.plusultratechnologies.com">
+                <Link to="http://www.delapeltech.com">
                    DELAPEL TECH
                 </Link>
                 . - 2022
               </span>
-              <span>All Right Reserved Design By Plus Ultra Technologies</span>
+              <span>All Right Reserved Design By Delapel Tech</span>
             </p>
             <Link
               to="#"
