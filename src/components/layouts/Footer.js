@@ -181,9 +181,9 @@ class Footer extends Component {
               <span>
                 Copy@{" "}
                 <Link to="http://www.plusultratechnologies.com">
-                  Plus Ultra Technologies
+                   DELAPEL TECH
                 </Link>
-                . - 2021
+                . - 2022
               </span>
               <span>All Right Reserved Design By Plus Ultra Technologies</span>
             </p>
